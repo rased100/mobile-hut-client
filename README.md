@@ -1,7 +1,9 @@
 # [Mobile Hut](https://p-hero-team-project.web.app/)
 ## About this website
   •	Clients can see different mobile details to buy mobile phone.
+  
   •	You can order mobile phone, monitor your orders and add a review about product.
+  
   •	Admin can approve orders, and add product, delete a product and make another admin.
 
     
